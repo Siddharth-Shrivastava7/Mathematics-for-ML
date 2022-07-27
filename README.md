@@ -2,7 +2,8 @@
 
 A collection of resources to learn mathematics for machine learning.
 
-## Mathematics for Machine Learning
+## Mathematics for Machine Learning 
+## DL
 *by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong*
 
 This is probably the place you want to start. Start slowly and work on some examples. Pay close attention to the notation and get comfortable with it.
